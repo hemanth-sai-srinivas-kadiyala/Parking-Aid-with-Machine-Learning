@@ -14,4 +14,4 @@ The image of the extracted number plate is given to the Tesseract OCR engine. Th
 In parallel to the above execution of the project, the images of all the parking spaces available are taken and are analyzed using a combination of imageai and the YOLOv3-Tiny pre-trained model. These models are used for object detection in parking slots. The total number of empty slots is plucked out and the incoming vehicle is allocated an appropriate slot. The program finally displays the output as the number plate of the vehicle followed by the parking slot number. If all the parking slots are full, it will display “Parking Full”.
 
 
-##P.S: [The Images used in this project are tailor made for (our institute).]
+P.S: The Images used in this project are tailor made for our institute

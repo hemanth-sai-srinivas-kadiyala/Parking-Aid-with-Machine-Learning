@@ -1,4 +1,4 @@
-# Parking-Aid-with-Machine-Learning
+# Parking Aid with Machine Learning
 This project is done in my final year of Undergraduate Studies (Bachelor of Technology in Computer Science and Engineering).
 
 This Project deals with the problems of parking vehicles in humongous campuses with multiple parking spaces with no parking Allocation System.
